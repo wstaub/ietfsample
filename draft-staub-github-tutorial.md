@@ -9,19 +9,19 @@ number:
 date:
 consensus: true
 v: 3
-area: GEN
-workgroup: gendispatch
+# area: GEN
+# workgroup: gendispatch
 keyword:
  - next generation
  - unicorn
  - AI-native
 venue:
-  group: WG
-  type: Working Group
-  mail: WG@example.com
-  arch: https://example.com/WG
-  github: USER/REPO
-  latest: https://example.com/LATEST
+#  group: WG
+#  type: Working Group
+#  mail: WG@example.com
+#  arch: https://example.com/WG
+  github: "wstaub/ietfsample"
+  latest: "https://wstaub.github.io/ietfsample/draft-staub-github-tutorial.html"
 
 author:
  -
@@ -32,7 +32,7 @@ author:
     fullname: Nano Cuac
     organization: CORE Association
     email: nano.cuac@corenic.org
-    
+
 
 normative:
 
