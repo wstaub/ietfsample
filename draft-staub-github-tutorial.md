@@ -19,18 +19,18 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "Werner Github Tutorial"
+abbrev: "WGT"
 category: info
 
-docname: draft-todo-yourname-protocol-latest
+docname: draft-staub-github-tutorial
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
 consensus: true
 v: 3
-area: AREA
-workgroup: WG Working Group
+area: GEN
+workgroup: gendispatch
 keyword:
  - next generation
  - unicorn
@@ -45,9 +45,14 @@ venue:
 
 author:
  -
-    fullname: Your Name Here
-    organization: Your Organization Here
-    email: your.email@example.com
+    fullname: Werner Staub
+    organization: CORE Association
+    email: werner.staub@corenic.org
+ -
+    fullname: Nano Cuac
+    organization: CORE Association
+    email: nano.cuac@corenic.org
+    
 
 normative:
 
