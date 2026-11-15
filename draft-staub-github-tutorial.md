@@ -48,7 +48,7 @@ TODO Abstract
 
 # Introduction {#intro}
 
-TODO Introduction 
+TODO Introduction
 
 this is my intro
 
