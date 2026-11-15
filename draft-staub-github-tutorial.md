@@ -42,7 +42,7 @@ informative:
 
 --- abstract
 
-TODO Abstract
+DNS domain names may stand in relationships that are relevant for the trust the public should place in them. This document describes a generic format to state such relationships in the form attestations delivered over the DNS. The result is a directed semantic graph where attestations constitute edges and domain names constitute vertices. 
 
 
 --- middle
